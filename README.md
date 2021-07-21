@@ -5,4 +5,4 @@
 
 시연 영상
 =======
-<iframe width="640" height="360" src="https://www.youtube.com/embed/NOLJZ-h286I" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![시연 영상](http://img.youtube.com/vi/NOLJZ-h286I/0.jpg)](http://www.youtube.com/watch?v=NOLJZ-h286I)
